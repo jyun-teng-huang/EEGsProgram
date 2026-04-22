@@ -1,0 +1,6 @@
+Subject,Accuracy,Precision,Recall,Specificity,F1-score,Kappa
+ds1b,56.5,54.4,81.0,32.0,65.09,112.00
+ds1c,50.0,nan,0.0,100.0,nan,99.00
+ds1g,85.0,80.2,93.0,77.0,86.13,169.00
+Avg.,63.8,,58.0,69.7,nan,126.67
+Std.,13.2,,35.8,24.5,,26.33
